@@ -1,6 +1,7 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
 <h1 align="center">Hi 👋, I'm Santosh Devadiga</h1>
 <h3 align="center">Android Developer</h3>
-
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f8/41/ac/f841ac2befaedda240c55a06b23b33ec.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santoshdevadiga&label=Profile%20views&color=0e75b6&style=flat" alt="santoshdevadiga" /> </p>
 
 - 🔭 I’m currently working on [Finance](http://test)
