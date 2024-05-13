@@ -4,19 +4,13 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f8/41/ac/f841ac2befaedda240c55a06b23b33ec.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santoshdevadiga&label=Profile%20views&color=0e75b6&style=flat" alt="santoshdevadiga" /> </p>
 
-- 🔭 I’m currently working on [Finance](http://test)
+- 🔭 I’m currently working on [Android](http://test)
 
-- 🌱 I’m currently learning **Android,Kotlin**
+- 🌱 I’m currently learning **Flutter**
 
-- 👯 I’m looking to collaborate on [test](http://test)
+- 📝 I regularly write articles on [medium](https://santoshdevadiga.medium.com/)
 
-- 🤝 I’m looking for help with [android](http://test)
-
-- 👨‍💻 All of my projects are available at [portfoliolink](portfoliolink)
-
-- 📝 I regularly write articles on [medium](medium)
-
-- 💬 Ask me about **Android, Angular, Kotlin**
+- 💬 Ask me about **Android, Flutter, Kotlin**
 
 - 📫 How to reach me **santoshndevadiga@outlook.com**
 
