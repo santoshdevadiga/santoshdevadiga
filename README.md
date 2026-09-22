@@ -1,35 +1,65 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
-<h1 align="center">Hi 👋, I'm Santosh Devadiga</h1>
-<h3 align="center">Technical Architect-Android</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f8/41/ac/f841ac2befaedda240c55a06b23b33ec.gif"/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=santoshdevadiga&label=Profile%20views&color=0e75b6&style=flat" alt="santoshdevadiga" /> </p>
+<h1 align="center">Hi, I'm Santosh Devadiga 👋</h1>
+<h3 align="center">Technical Architect — Mobile Platform & Solution Architecture</h3>
 
-- 🔭 I’m currently working on [Android](http://test)
-
-- 🌱 I’m currently learning **Flutter**
-
-- 📝 I regularly write articles on [medium](https://santoshdevadiga.medium.com/)
-
-- 💬 Ask me about **Android, Flutter, Kotlin**
-
-- 📫 How to reach me **santoshndevadiga@outlook.com**
-
-- 📄 Know about my experiences [resumelink](resumelink)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/santoshndevadiga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santoshndevadiga" height="30" width="40" /></a>
-<a href="https://medium.com/@santoshdevadiga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@santoshdevadiga" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@SantoshDevadigaDev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="santoshdevadiga" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=650&lines=13%2B+years+building+enterprise+mobile+platforms;Clean+Architecture+%7C+Modular+SDKs+%7C+CI%2FCD;Flutter+%C2%B7+Android+%C2%B7+Kotlin+%C2%B7+AI-assisted+engineering" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/santoshndevadiga"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://santoshdevadiga.medium.com"><img src="https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@SantoshDevadigaDev"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" /></a>
+  <a href="mailto:santoshndevadiga@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=santoshdevadiga&show_icons=true&locale=en&layout=compact" alt="santoshdevadiga" /></p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=santoshdevadiga&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="santoshdevadiga" /></p>
+### About me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santoshdevadiga&show_icons=true&locale=en&theme=tokyonight" alt="santoshdevadiga" /></p>
+I'm a Technical Architect leading enterprise-scale native and hybrid mobile platforms across Telecom, FinTech, Retail, Education, Government, Travel and IoT. I own architecture direction end to end — modular Clean Architecture, reusable core platforms and SDKs, CI/CD, and the governance that keeps large teams shipping to one standard — and I build the AI-assisted workflows those teams run on.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=santoshdevadiga&&theme=tokyonight" alt="santoshdevadiga" /></p>
+- 🏗️ Currently architecting **NetHiveIQ**, an enterprise Flutter telecom platform, at **Aditi Consulting (client: T-Mobile)**
+- 🧩 Focused on feature-based modular architecture, reusable core/shared modules, and SDK development
+- 🤖 Building AI-assisted development workflows — shared configs, prompt libraries, token-optimization strategies — with Cursor, Claude and ChatGPT
+- 📜 Pursuing the **Claude Certified Architect** certification
+- ✍️ Writing on Medium and building on YouTube about Android, Flutter and Kotlin
+- 📍 Mumbai, India
+
+### What I work with
+
+**Languages:** Kotlin · Java · Dart · JavaScript
+
+**Native & Hybrid:** Android · Jetpack Compose · Flutter · Angular · React
+
+**Architecture:** Clean Architecture · MVVM · MVI · SOLID · Modularization · System & Solution Design · SDK Development
+
+**Backend & Data:** REST APIs · Firebase · Supabase · MQTT · RabbitMQ
+
+**Cloud & DevOps:** CI/CD · Azure DevOps · Docker · Kubernetes
+
+**AI Engineering:** Cursor · Claude · ChatGPT · GitHub Copilot · Prompt Engineering · AI Governance
+
+### Selected work
+
+- **NetHiveIQ** — Enterprise Flutter telecom platform on a plug-and-play modular architecture with shared core modules
+- **Android Security SDK** — Reusable rooted-device detection adopted across regulated enterprise apps
+- **Flutter IoT Platform** — Real-time device control over MQTT and RabbitMQ
+- **Metro App** — Android modernization, legacy codebase refactored into Clean Architecture layers
+- FinTech, retail, government and travel delivery for Bajaj Finance, IOCL, Sigma, Simhasth Kumbh Mela and others
+
+### Personal R&D
+
+Exploring the hardware/software boundary with Zigbee mesh networking, sensor & actuator control, and a mobile app layer over the device fleet — prototyping robotic control end to end to keep architecture decisions grounded in real device constraints.
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=santoshdevadiga&show_icons=true&theme=default&hide_title=true&count_private=true" alt="GitHub stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=santoshdevadiga&theme=default" alt="GitHub streak" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santoshdevadiga&layout=compact&hide_title=true" alt="Top languages" height="165"/>
+</p>
+
+<p align="center"><i>Open to discussing mobile architecture, AI-assisted engineering, and platform governance.</i></p>
